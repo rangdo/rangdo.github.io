@@ -5,6 +5,8 @@ date:   2018-09-25 12:58:00 +1000
 categories: jekyll update
 ---
 
+{% include analytics.html %}
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/alessandrogrussu/6990446366/in/photolist-bDHSam-dSuPEw-g6Jan8-bPnzSM-bUHFuJ-5LfGjX-bPz6JT-g6Jrn5-bPyCjK-7nydhS-4ZSY7e-7Tuiw-5LQvcZ-cxcPgb-FWhqLb-t97wF-6R6xAN-8H1MHC-d8VkXY-r9dgzx-anniTt-5LUHd1-cZfRwd-bjGBa-5gHtBu-fnAASe-bPzaxn-5LUJ7C-x4RL6-4nNoVo-bn57Vi-fYaTMe-FNPC6d-FNPCdY-pXq2Lj-qYiNv6-4NnfDX-4P7fR2-bn4zPZ-2gM4q-bn59Q2-5LUHTu-bthpbF-8bEuN9-4yrALU-7hKoip-bPghTc-ite8sr-5LUKJW-bjGAK" ><img src="https://farm8.staticflickr.com/7213/6990446366_f07263fdf3_b.jpg" width="1024" height="683"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Growing up in the 80s, before we had super personal computers in our pockets, a PC would plug into a TV and you would load games on to it with audio cassettes. I remember one day my mum came home with a second hand zx spectrum and a handfull of games. After spending hours loading games and longer playing them, I found this thing called Basic.
